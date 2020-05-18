@@ -9,12 +9,13 @@ var lyric = "maybe";
 }
 
 
-function thisIsCrazy() {
+function crazy() {
   // fix the code in here:
-thisIsCrazy()
-var thisIsCrazy = function() {return
-  console.log ("hey!!!")
-}}
+
+var thisIsCrazy = function() {
+  console.log ("hey!!!")}
+  thisIsCrazy();
+}
 
 
 
