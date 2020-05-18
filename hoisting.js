@@ -12,7 +12,7 @@ var lyric = "maybe";
 function thisIsCrazy() {
   // fix the code in here:
 thisIsCrazy()
-var thisIsCrazy = function() {
+var thisIsCrazy = function() {return
   console.log ("hey!!!")
 }}
 
@@ -20,7 +20,7 @@ var thisIsCrazy = function() {
 
 function sayMyName() {
   // fix the code in here:
-  var name = "Kristin";
+  var name = "Cricky";
 
   sayMy();
 
