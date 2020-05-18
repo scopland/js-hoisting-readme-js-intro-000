@@ -11,7 +11,7 @@ var lyric = "maybe";
 
 function thisIscrazy() {
   // fix the code in here:
-  thisIsCrazy();
+  
 
   var crazy = function (){
     console.log("hey!!!")
